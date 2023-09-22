@@ -1,0 +1,4 @@
+automation_java\AppTest.class
+TestRunner\Run.class
+PageObject\LoginPage.class
+StepDefinition\StepDef.class
